@@ -1,5 +1,7 @@
 .normal{
   font-family: fantasy;
+  margin: 50px;
+  padding-left: 50px;
 }
 .title{
   color:violet;
@@ -7,7 +9,31 @@
 .aboutme{
   font-size: 90%;
   font-family: cursive;
+  width: 300px;
+  margin: 50px;
+  padding-left: 50px;
 }
 .important{
   font-style: oblique;
+}
+.sidebar{
+  margin-right: 20px;
+  float: left;
+  width: 150px;
+  background-color: black;
+  color: yellow;
+  height: 700px;
+  line-height: 2;
+}
+img.image1{
+  float: right;
+}
+.column{
+  float: left;
+  width: 225px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin: 10px;
 }
